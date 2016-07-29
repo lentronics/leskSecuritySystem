@@ -14,3 +14,9 @@ sudo apt-get install -y python3 python3-pip python-dev
 sudo pip3 install rpi.gpio
 For more information, visit Adafruit github page: https://github.com/adafruit
 
+Upcomming work:
+1. Use a Python script to upload the recorded video to our web domain
+2. Web application to:
+   . provide access to uploaded videos
+   . delivery an e-mail notification of motion detect events with link to the uploaded video
+   . data visualization with statistics of recent activities
