@@ -12,7 +12,7 @@ Make sure to install the Adafruit Python library:
 sudo apt-get update
 sudo apt-get install -y python3 python3-pip python-dev
 sudo pip3 install rpi.gpio
-For more information, visit Adafruit github page: https://github.com/adafruit
+For more information, visit Adafruit github page: https://github.com/adafruit/Adafruit_Python_CharLCD
 
 Upcomming work:
 1. Use a Python script to upload the recorded video to our web domain
